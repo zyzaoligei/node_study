@@ -1,2 +1,2 @@
-# learn_git2
+# study node
 学习node
