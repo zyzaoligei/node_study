@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="63a20f08-35a2-4171-be8c-9fef9417417b" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/01-Node模块-fs/01_fs文件读取的api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Node模块-fs/02_fs文件描述符的使用.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Node模块-fs/03-文件写入的api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Node模块-fs/04-文件夹1-创建.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Node模块-fs/05-文件夹2-读取.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Node模块-fs/06-fs文件夹3-重命名.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Node模块-fs/aaa.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Node模块-fs/bbb.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Node模块-fs/ddd.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Node模块-fs/why/aaa/abc.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Node模块-fs/why/bbb/cba.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Node模块-fs/why/nba.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-Node模块-events/01-events模块的基本使用.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-Node模块-events/02-event模块的取消事件.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-Node模块-events/03-event模块的传递参数.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-Node模块-events/04-event的其他方法一.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-Node模块-events/05-event的其他方法二.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MPRSDaOTvE4X1fcgCNFGIvUq7s" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="63a20f08-35a2-4171-be8c-9fef9417417b" name="变更" comment="" />
+      <created>1677667228810</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677667228810</updated>
+      <workItem from="1677667230430" duration="299000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+</project>
