@@ -1,2 +1,2 @@
 # learn_git2
-学习git指令
+学习node
