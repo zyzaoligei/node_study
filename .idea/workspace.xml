@@ -1,30 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="63a20f08-35a2-4171-be8c-9fef9417417b" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/01-Node模块-fs/01_fs文件读取的api.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-Node模块-fs/02_fs文件描述符的使用.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-Node模块-fs/03-文件写入的api.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-Node模块-fs/04-文件夹1-创建.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-Node模块-fs/05-文件夹2-读取.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-Node模块-fs/06-fs文件夹3-重命名.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-Node模块-fs/aaa.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-Node模块-fs/bbb.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-Node模块-fs/ddd.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-Node模块-fs/why/aaa/abc.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-Node模块-fs/why/bbb/cba.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-Node模块-fs/why/nba.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-Node模块-events/01-events模块的基本使用.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-Node模块-events/02-event模块的取消事件.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-Node模块-events/03-event模块的传递参数.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-Node模块-events/04-event的其他方法一.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-Node模块-events/05-event的其他方法二.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Node模块-fs/why/aaa/abc.txt" beforeDir="false" afterPath="$PROJECT_DIR$/01-Node模块-fs/why/aaa/abc.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="PUSH_TAGS">
@@ -40,10 +36,42 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="node-day1" />
+                    <option name="lastUsedInstant" value="1677667365" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1677667364" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2MPRSDaOTvE4X1fcgCNFGIvUq7s" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -54,13 +82,23 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "javascript.nodejs.core.library.configured.version": "12.18.0",
+    "javascript.nodejs.core.library.typings.version": "12.20.55",
+    "last_opened_file_path": "D:/自主学习-项目-资料/代码练习/my-coder/learn_node/04-Node中的流-stream",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\自主学习-项目-资料\代码练习\my-coder\learn_node\04-Node中的流-stream" />
+      <recent name="D:\自主学习-项目-资料\代码练习\my-coder\learn_node\03-node中的Buffer" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
@@ -69,12 +107,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677667228810</updated>
-      <workItem from="1677667230430" duration="299000" />
+      <workItem from="1677667230430" duration="1024000" />
+      <workItem from="1678152960275" duration="9976000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="LAST_COMMIT_MESSAGE" value="" />
